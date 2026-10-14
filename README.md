@@ -18,7 +18,7 @@ Enlaces a los Issues de Propuestas de Mejora
 * **Propuesta de Malagon Granados Rene Alejandro:**
 * **Propuesta de Martinez Vazquez Alejandra:** 
 
-## 📂 Estructura del Repositorio
+##  Estructura del Repositorio
 ```text
 practica2/
 ├── README.md
