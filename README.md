@@ -8,15 +8,15 @@ Integrantes del Equipo
 Información del Proyecto
 * **Proyecto Propio:** Sistema de Gestión de Obras Públicas (Modelo EER y Requisitos Ampliados).
 * **Proyecto Asignado:** Obras publicas
-* **Enlace del Fork / Repositorio:** [URL del repositorio o fork en GitHub]
+* **Enlace del Fork / Repositorio:**
 
 Puesta en Marcha / Confirmación de Funcionamiento
 El sistema y los modelos del proyecto se encuentran estructurados bajo los estándares solicitados. La documentación gráfica de los diagramas conceptuales (Chen y Crows-Feet) y el levantamiento del proyecto asignado han sido validados e integrados en el repositorio en formato PDF e imágenes de alta resolución.
 
 Enlaces a los Issues de Propuestas de Mejora
-* **Propuesta de Naxxini Giovani Valdez Adame:** [Enlace al issue en GitHub sobre Historial y Calificación de Desempeño de Contratistas con IA]
-* **Propuesta de Malagon Granados Rene Alejandro:** [Enlace al issue en GitHub]
-* **Propuesta de Martinez Vazquez Alejandra:** [Enlace al issue en GitHub]
+* **Propuesta de Naxxini Giovani Valdez Adame:** 
+* **Propuesta de Malagon Granados Rene Alejandro:**
+* **Propuesta de Martinez Vazquez Alejandra:** 
 
 ## 📂 Estructura del Repositorio
 ```text
